@@ -16,7 +16,7 @@ Linux için;
     cd patika-bootstrap-odev1
     code .
 # Live Demo
-[Demoyu Aç](https://sustaining-turquoise-queen.glitch.me)
+[Demoyu Aç](https://lily-splendid-guan.glitch.me/index.html)
 
 # Contributing
 Pull requestler kabul edilir. Büyük değişiklikler için, lütfen önce neyi değiştirmek istediğiniz tartışmak için bir konu açınız.
